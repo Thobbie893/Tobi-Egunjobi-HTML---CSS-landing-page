@@ -742,23 +742,87 @@ select{
 .male-avatar img{
     width: 60px;
     height: 60px;
-    margin-block: 8px;
 }
 
 .avatar-data h5{
     font-weight: 600;
     font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
 }
 
 .avatar-data p{
     font-size: 17px;
     font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: 25px;
+}
+
+.avatar-data{
+    margin-block: 25px;
+    margin-right: 30px;
 }
 
 .developers-data-container{
     display:flex;
     gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 10vh;
 }
+
+.testicontainer2 img{
+    width: 93px;
+    height: 28px;
+    margin-top: 31px;
+    margin-left: 32px;
+}
+
+.testicontainer2 p{
+    position: relative;
+    bottom: 1vh;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 32px;
+    line-height: 28px; 
+}
+
+.male-avatar2 img{
+    width: 60px;
+    height: 60px;
+}
+
+.developers-data-container2{
+    display:flex;
+    gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 6vh;
+}
+
+.avatar-data2 h5{
+    font-weight: 600;
+    font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-top: 30px;
+}
+
+.avatar-data2 p{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: -3px;
+}
+
+
 
 
 
