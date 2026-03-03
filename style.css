@@ -592,17 +592,19 @@ select{
 .testimonials-main-container{
     background-image: url(Images/div.wp-block-cover.png);
     background-repeat: no-repeat;
+    position: relative;
+    bottom: 258vh;
     background-position: center;
-    background-size: cover;
-    padding-block: 1182px;
-    margin-top: 112px;
+    background-size: 1920px 1801px;
+    margin-top: 200vh;
+    margin-bottom: 200vh;
 }
 
 .testimonials-main-container h3{
     color: white;
     text-align: center;
     position: relative;
-    bottom: 140vh;
+    bottom: -90vh;
     font-family: mona sans;
     line-height: 67px;
     font-size: 56px;
@@ -645,6 +647,7 @@ select{
     gap: 32px;
     align-items: center;
     justify-content: center;
+    margin-top: 198vh;
 }
 
 .testicontainer-sub-container2{
@@ -820,6 +823,29 @@ select{
     font-family: mona sans;
     margin-left: 0.1vh;
     margin-top: -3px;
+}
+
+.testicontainer3 img{
+    width: 93px;
+    height: 28px;
+    margin-top: 31px;
+    margin-left: 32px;
+}
+
+.testicontainer3 p{
+    position: relative;
+    bottom: 1vh;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 32px;
+    line-height: 28px; 
+}
+
+.male-avatar3 img{
+    width: 60px;
+    height: 60px;
 }
 
 
