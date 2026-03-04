@@ -593,34 +593,38 @@ select{
     background-image: url(Images/div.wp-block-cover.png);
     background-repeat: no-repeat;
     position: relative;
-    bottom: 258vh;
+    bottom: 280vh;
     background-position: center;
     background-size: 1920px 1801px;
-    margin-top: 200vh;
+    margin-top: 185vh;
     margin-bottom: 200vh;
+    padding-bottom: -91vh;
 }
 
 .testimonials-main-container h3{
     color: white;
     text-align: center;
     position: relative;
-    bottom: -90vh;
+    bottom: -105vh;
     font-family: mona sans;
     line-height: 67px;
-    font-size: 56px;
+    font-size: 46px;
     font-weight: 800;
+    margin-top: 146vh;
+    padding-top: 20vh;
 }
 
 .testimonials-main-container p{
     color: white;
     text-align: center;
     position: relative;
-    bottom: 140vh;
+    bottom: -100vh;
     font-family: mona sans;
     line-height: 40px;
     font-size: 26px;
     font-weight: 400;
     margin-top: 31px;
+    padding-top: 20px;
 }
 
 .testicontainer1{
@@ -647,7 +651,8 @@ select{
     gap: 32px;
     align-items: center;
     justify-content: center;
-    margin-top: 198vh;
+    padding-top: 228vh;
+    padding-bottom: 30px;
 }
 
 .testicontainer-sub-container2{
@@ -662,7 +667,7 @@ select{
     height: 327px;
     border-radius: 20px;
     position: relative;
-    bottom: 124vh;
+    bottom: 128vh;
     margin-bottom: 60px;
 }
 
@@ -672,7 +677,7 @@ select{
     height: 327px;
     border-radius: 20px;
     position: relative;
-    bottom: 116vh;
+    bottom: 120vh;
     gap: 32px;
 }
 
@@ -682,7 +687,7 @@ select{
     height: 355px;
     border-radius: 20px;
     position: relative;
-    bottom: 116vh;
+    bottom: 120vh;
     gap: 32px;
 }
 
@@ -699,7 +704,7 @@ select{
     height: 299px;
     border-radius: 20px;
     position: relative;
-    bottom: 132vh;
+    bottom: 136vh;
     margin-bottom: 60px;
 }
 
@@ -709,7 +714,7 @@ select{
     height: 355px;
     border-radius: 20px;
     position: relative;
-    bottom: 124vh;
+    bottom: 128vh;
     margin-bottom: 60px;
 }
 
@@ -719,7 +724,7 @@ select{
     height: 327px;
     border-radius: 20px;
     position: relative;
-    bottom: 125vh;
+    bottom: 129vh;
     margin-top:32px;
     margin-bottom: 60px;
 }
@@ -727,13 +732,13 @@ select{
 .testicontainer1 img{
     width: 93px;
     height: 28px;
-    margin-top: 31px;
+    margin-top:31px;
     margin: 32px;
 }
 
 .testicontainer1 p{
     position: relative;
-    top: -5vh;
+    top: -8vh;
     color: black;
     font-size: 19px;
     font-weight: 400;
@@ -774,7 +779,7 @@ select{
     gap: 16px;
     margin-bottom: 10px;
     position: relative;
-    bottom: 10vh;
+    bottom: 12vh;
 }
 
 .testicontainer2 img{
@@ -786,7 +791,7 @@ select{
 
 .testicontainer2 p{
     position: relative;
-    bottom: 1vh;
+    bottom: 4vh;
     color: black;
     font-size: 19px;
     font-weight: 400;
@@ -805,7 +810,7 @@ select{
     gap: 16px;
     margin-bottom: 10px;
     position: relative;
-    bottom: 6vh;
+    bottom: 8vh;
 }
 
 .avatar-data2 h5{
@@ -834,7 +839,7 @@ select{
 
 .testicontainer3 p{
     position: relative;
-    bottom: 1vh;
+    bottom: 4vh;
     color: black;
     font-size: 19px;
     font-weight: 400;
@@ -848,7 +853,323 @@ select{
     height: 60px;
 }
 
+.developers-data-container3{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 8vh;
+}
 
+.avatar-data3 h5{
+    font-weight: 600;
+    font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-top: 30px;
+}
+
+.avatar-data3 p{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: -3px;
+}
+
+.testicontainer4 img{
+    width: 93px;
+    height: 28px;
+    margin-top: 31px;
+    margin-left: 32px;
+}
+
+.testicontainer4 p{
+    position: relative;
+    bottom: 4vh;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 32px;
+    line-height: 28px;
+}
+
+.developers-data-container4{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 8vh;
+}
+
+.male-avatar4 img{
+    width: 60px;
+    height: 60px;
+}
+
+.avatar-data4 h5{
+    font-weight: 600;
+    font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-top: 30px;
+}
+
+.avatar-data4 p{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: -3px;
+}
+
+.testicontainer5 img{
+    width: 93px;
+    height: 28px;
+    margin-top: 31px;
+    margin-left: 32px;
+}
+
+.testicontainer5 p{
+    position: relative;
+    bottom: 4vh;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 32px;
+    line-height: 28px; 
+}
+
+.developers-data-container5{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 10vh;
+}
+
+.male-avatar5 img{
+    width: 60px;
+    height: 60px;
+}
+
+.avatar-data5 h5{
+    font-weight: 600;
+    font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-top: 30px;
+}
+
+.avatar-data5 p{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: -3px;
+    line-height: 28px;
+}
+
+.testicontainer6 img{
+    width: 93px;
+    height: 28px;
+    margin-top: 31px;
+    margin-left: 32px;
+}
+
+.testicontainer6 p{
+    position: relative;
+    bottom: 4vh;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 32px;
+    line-height: 28px; 
+}
+
+.male-avatar6 img{
+    width: 60px;
+    height: 60px;
+}
+
+.developers-data-container6{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 11vh;
+}
+
+.avatar-data6 h5{
+    font-weight: 600;
+    font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-top: 30px;
+}
+
+.avatar-data6 p{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: -3px;
+    line-height: 28px;
+}
+
+.testicontainer7 img{
+    width: 93px;
+    height: 28px;
+    margin-top: 31px;
+    margin-left: 32px;
+}
+
+.testicontainer7 p{
+    position: relative;
+    bottom: 4vh;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 32px;
+    line-height: 28px;
+}
+
+.male-avatar7 img{
+    width: 60px;
+    height: 60px;
+}
+
+.developers-data-container7{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 8vh;
+}
+
+.avatar-data7 h5{
+    font-weight: 600;
+    font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-top: 30px;
+}
+
+.avatar-data7 p{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: -3px;
+    line-height: 28px;
+}
+
+.testicontainer8 img{
+    width: 93px;
+    height: 28px;
+    margin-top: 31px;
+    margin-left: 32px;
+}
+
+.testicontainer8 p{
+    position: relative;
+    bottom: 4vh;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 32px;
+    line-height: 28px;
+}
+
+.developers-data-container8{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 10vh;
+}
+
+.male-avatar8 img{
+    width: 60px;
+    height: 60px;
+}
+
+.avatar-data8 h5{
+    font-weight: 600;
+    font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-top: 30px;
+}
+
+.avatar-data8 p{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: -3px;
+    line-height: 28px; 
+}
+
+.testicontainer9 img{
+    width: 93px;
+    height: 28px;
+    margin-left: 32px;
+    margin-top: 31px;
+}
+
+.testicontainer9 p{
+    position: relative;
+    bottom: 4vh;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: justify;
+    margin: 32px;
+    line-height: 28px;
+}
+
+.male-avatar9 img{
+    width: 60px;
+    height: 60px;
+}
+
+.developers-data-container9{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 8vh;
+}
+
+.avatar-data9 h5{
+    font-weight: 600;
+    font-size: 19px;
+    text-align: justify;
+    font-family: mona sans;
+    margin-top: 30px;
+}
+
+.avatar-data9 p{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: justify;
+    font-family: mona sans;
+    margin-left: 0.1vh;
+    margin-top: -3px;
+    line-height: 28px;
+}
 
 
 
