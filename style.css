@@ -1171,6 +1171,239 @@ select{
     line-height: 28px;
 }
 
+.sponsors-section-main-container h4{
+    position: relative;
+    bottom: 580vh;
+    text-align: center;
+    font-family: mona sans;
+    font-size: 46px;
+    font-weight: 800;
+    line-height: 56px;
+}
+
+.sponsors-section-main-container p{
+    position: relative;
+    bottom: 576vh;
+    font-family: mona sans;
+    font-size: 26px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 40px;
+}
+
+.wpforms{
+    padding: 31px 85px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.wpforms img{
+    width: 121px;
+    height: 34px;
+    align-items: center;
+    justify-content: center; 
+}
+
+.gravity-forms{
+    padding: 35px 58px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.gravity-forms img{
+    width: 175px;
+    height: 27px;
+}
+
+.fluent-forms{
+    padding: 34px 77px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.fluent-forms img{
+    width: 137px;
+    height: 30px;
+}
+
+.wsform{
+    padding: 35px 99px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.wsform img{
+    width: 93px;
+    height: 27px;
+}
+
+.sponsors-logo-container{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    justify-content: center;
+    position: relative;
+    bottom: 560vh;
+}
+
+.sponsors-logo-container2{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 556vh;
+}
+
+.elementor{
+    padding: 35px 79px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.elementor img{
+    width: 133px;
+    height: 27px;
+}
+
+.bricks{
+    padding: 35px 85px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.bricks img{
+    width: 112px;
+    height: 27px;
+}
+
+.brizy{
+    padding: 32px 99px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.brizy img{
+    width: 93px;
+    height: 34px;
+}
+
+.yoast{
+    padding: 32px 107px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.yoast img{
+    width: 77px;
+    height: 34px;
+}
+
+.sponsors-logo-container3{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 552vh;
+}
+
+.rankmath{
+    padding: 33px 71px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.rankmath img{
+    width: 148px;
+    height: 27px;
+}
+
+.AIOSEO{
+    padding: 33px 95px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.AIOSEO img{
+    width: 101px;
+    height: 27px;
+}
+
+.seopress{
+    padding: 33px 84px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.seopress img{
+    width: 123px;
+    height: 27px;
+}
+
+.wpml{
+    padding: 32px 99px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.wpml img{
+    width: 93px;
+    height: 30px;
+}
+
+.sponsors-logo-container4{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 548vh;
+}
+
+.jetpack{
+    padding: 32px 85px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.jetpack img{
+    width: 121px;
+    height: 32px;
+}
+
+.polylang{
+    padding: 32px 74px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.polylang img{
+    width: 143px;
+    height: 34px;
+}
+
+.shortpixel{
+    padding: 34px 73px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.shortpixel img{
+    width: 145px;
+    height: 29px;
+}
+
+.complianz{
+    padding: 35px 85px;
+    background-color: #F8F7FC;
+    border-radius: 20px;
+}
+
+.complianz img{
+    width: 121px;
+    height: 27px;
+}
 
 
 
