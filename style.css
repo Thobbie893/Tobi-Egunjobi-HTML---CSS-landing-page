@@ -1636,7 +1636,8 @@ select{
         font-size: 26px;
     }
 
-    .container1, .container2{
+    .container1,
+    .container2{
         flex-direction: column;
     }
 
@@ -1657,7 +1658,9 @@ select{
         color: black;
     }
 
-    .security, .maintenance, .compactibility{
+    .security,
+    .maintenance,
+    .compactibility{
         margin-top: 32px;
     }
 
@@ -1668,7 +1671,187 @@ select{
         font-size: 16px;
         margin-block: -29vh;
         margin-left: 12px;
-}
+    }
+
+    .advert-value-headline{
+        font-size: 28px;
+        line-height: 42px;
+        margin-left: 24px;
+        padding-top: 30px;
+    }
+
+    .advert-value-headline-container{
+        flex-direction: column;
+    }
+
+    .advert-value-subtext p{
+        font-size: 24px;
+        line-height: 42px;
+        margin-left: 24px;
+    }
+
+    .compare-studio-and-audio-button{
+        margin-left: 24px;
+    }
+
+    .main-container{
+        flex-direction: column;
+    }
+
+    .simply-static-container{
+        align-items: center;
+        justify-content: center;
+        margin-inline: -100px;
+        margin-top: 20px;
+        background-color: #E9E7FF;
+        width: 128%;
+        height: 100%;
+        padding: 24px;
+        border-radius: 5px;
+    }
+
+    .subcontainer{
+        background-color: white;
+        width: 100%;
+        height: 464px;
+        margin-top: 15px;
+        border-radius: 10px;
+    }
+
+    .subcontainer2{
+        background-color: white;
+        width: 100%;
+        height: 416px;
+        margin-top: 15px;
+        border-radius: 10px;
+    }
+
+    .subcontainer3{
+        width: 100%;
+    }
+
+    .wordpress-plugin p,
+    .deploy p {
+        font-size: 19px;
+    }
+
+    .simply-static-container2{
+        background-color: #14111F;
+        margin-inline: -100px;
+        width: 128%;
+        height: 1623px;
+        padding: 32px;
+        border-radius: 5px;
+    }
+
+    .subcontainer4{
+        width: 100%;
+        height: 460px;
+    }
+
+    .subcontainer5{
+        width: 100%;
+        height: 440px
+    }
+
+    .subcontainer6{
+        width: 100%;
+        height: 220px;
+    }
+
+    .target-audience-section-main-container{
+        margin-top: 240vh;
+    }
+
+    .get-simply-static-pro-button2{
+        font-size: 24px;
+        line-height: 32px;
+        padding-left: 10px;
+        width: 100%;
+        height: 80px;
+    }
+
+    .target-audience-section-headline{
+        font-size: 36px;
+        line-height: 40px;
+        margin-inline: 32px;
+    }
+
+    .target-audience-section-container{
+        flex-direction: column;
+    }
+
+    .target-audience-section-subtext p{
+        margin-inline: 32px;
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .compare-studio-and-audio-button{
+        margin-top: 20px;
+        position: relative;
+        bottom: 36vh;
+    }
+
+    .target-audience-section-subcontainer{
+        flex-direction: column;
+        position: relative;
+        width: 85%;
+        right: 13vh;
+        padding: 32px;
+        bottom: 30vh;
+    }
+
+    .agencies,
+    .content-creators{
+        margin-top: 40px;
+    }
+
+    .stats-container{
+        flex-direction: column;
+        width: 85px;
+        position: relative;
+        right: 13vh;
+        bottom: 210px;
+    }
+
+    .stats1,
+    .stats2,
+    .stats3,
+    .stats4{
+        width: 325px;
+        height: 130px;
+    }
+
+    .stats1 h3,
+    .stats2 h3,
+    .stats3 h3,
+    .stats4 h3{
+        position: relative;
+        bottom: 20px;
+    }
+
+    .stats1 p,
+    .stats2 p,
+    .stats3 p,
+    .stats4 p{
+        position: relative;
+        bottom: 30px;
+    }
+
+
+    .testimonials-main-container{
+        position: relative;
+        top: 290vh;
+    }
+
+    .logo-advert-container2{
+        position: relative;
+        bottom: 190px;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 
 }
 
