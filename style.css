@@ -15,7 +15,7 @@ body{
 .logo img{
     width: 190px;
     height: 32px;
-    margin-block: 20px;
+    margin-block: 34px;
 }
 
 .navbar-container{
@@ -29,7 +29,7 @@ body{
     display: flex;
     justify-content: space-around;
     width: 295px;
-    margin-block: 13px;
+    margin-block: 25px;
     font-family: mona sans;
 }
 
@@ -45,7 +45,7 @@ select{
     display: flex;
     justify-content: space-around;
     gap: 32px;
-    margin-block: 22px;
+    margin-block: 24px;
 }
 
 .CTA button{
@@ -260,10 +260,7 @@ select{
     margin-left: 5px;
 }
 
-.performance,
-.security,
-.maintenance,
-.compactibility{
+.performance, .security, .maintenance, .compactibility{
     background-color: #F8F7FC;
     padding: 30px 30px;
     width: 614px;
@@ -1572,5 +1569,51 @@ select{
 }
 
 
+@media screen and (max-width:840px) {
+    .navlinks{
+        display: none;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-container{
+        justify-content: left;
+        flex-direction: column;
+    }
+
+    .button-container{
+        display: none;
+    }
+
+    .hero-text{
+        font-size: 37px;
+        line-height: 42px;
+        margin-top: -15vh;
+    }
+
+    .second-CTA-button{
+        margin-inline: 10vh
+    }
+
+    .video-advert{
+        margin-left: 5vh;
+        width: 80%;
+        height: 80%;
+    }
+
+    .advert-subtext{
+        font-size: 24px;
+        text-align: center;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .logo-advert-container{
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 2vw;
+    }
+
+}
 
 
