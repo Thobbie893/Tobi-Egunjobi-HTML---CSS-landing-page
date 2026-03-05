@@ -233,25 +233,37 @@ select{
     justify-content: center;
 }
 
-.performance img, .security img, .maintenance img, .compactibility img{
+.performance img,
+.security img,
+.maintenance img,
+.compactibility img{
     width: 50px;
     height: 50px;
 }
 
-.performance p, .security p, .maintenance p, .compactibility p{
+.performance p,
+.security p,
+.maintenance p,
+.compactibility p{
     font-size: 19px;
     line-height: 28px;
     margin-left: 5px;
 }
 
-.performance h3, .security h3, .maintenance h3, .compactibility h3{
+.performance h3,
+.security h3,
+.maintenance h3,
+.compactibility h3{
     font-family: mona sans;
     font-size: 26px;
     font-weight: 800px;
     margin-left: 5px;
 }
 
-.performance, .security, .maintenance, .compactibility{
+.performance,
+.security,
+.maintenance,
+.compactibility{
     background-color: #F8F7FC;
     padding: 30px 30px;
     width: 614px;
@@ -1494,11 +1506,70 @@ select{
     font-family: mona sans;
 }
 
-.legal-disclosure, .terms-of-service, .VDP-program, .data-privacy{
+.legal-disclosure,
+.terms-of-service,
+.VDP-program,
+.data-privacy{
     font-family: mona sans;
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: 31px;
 }
 
+.terms-of-service,
+.VDP-program,
+.data-privacy{
+    margin-top: 15px;
+}
 
+.changelogs,
+.case-studies,
+.glossary,
+.account{
+    font-family: mona sans;
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: 31px; 
+}
+
+.case-studies,
+.glossary,
+.account{
+    margin-top: 15px;
+}
+
+.wordpress-to-static,
+.headless-wordpress,
+.performance-boost,
+.security-benefit{
+    font-size: 19px;
+    font-weight: 400;
+    font-family: mona sans;
+    margin-top: 31px;
+}
+
+.headless-wordpress,
+.performance-boost,
+.security-benefit{
+    margin-top: 15px;
+    font-weight: 400;
+}
+
+.WP2,
+.hardypress,
+.strattic,
+.all-comparisons{
+    font-size: 19px;
+    font-weight: 400;
+    font-family: mona sans;
+    margin-top: 31px;
+}
+
+.hardypress,
+.strattic,
+.all-comparisons{
+    margin-top: 15px;
+}
 
 
 
