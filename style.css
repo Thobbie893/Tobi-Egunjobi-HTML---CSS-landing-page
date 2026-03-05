@@ -260,7 +260,10 @@ select{
     margin-left: 5px;
 }
 
-.performance, .security, .maintenance, .compactibility{
+.performance,
+.security,
+.maintenance,
+.compactibility{
     background-color: #F8F7FC;
     padding: 30px 30px;
     width: 614px;
@@ -1589,10 +1592,13 @@ select{
         font-size: 37px;
         line-height: 42px;
         margin-top: -15vh;
+        margin-inline: 4vh;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 
     .second-CTA-button{
-        margin-inline: 10vh
+        margin-inline: 11vh
     }
 
     .video-advert{
@@ -1612,7 +1618,57 @@ select{
         flex-wrap: wrap;
         justify-content: space-between;
         padding: 2vw;
+        
     }
+
+    .advert-explanation h2{
+        margin-inline: 16px;
+        line-height: 32px;
+        position: relative;
+        top: 190px;
+        font-size: 32px;
+    }
+
+    .advert-explanation p{
+        position: relative;
+        top: 210px;
+        margin-inline: 16px;
+        font-size: 26px;
+    }
+
+    .container1, .container2{
+        flex-direction: column;
+    }
+
+    .container2{
+        margin-top: 32px;
+    }
+
+    .performance,
+    .security,
+    .maintenance,
+    .compactibility{
+        background-color: #F8F7FC;
+        padding: 15px 15px;
+        width: 314px;
+        height: 309px;
+        border-radius: 20px;
+        margin-top: 200px;
+        color: black;
+    }
+
+    .security, .maintenance, .compactibility{
+        margin-top: 32px;
+    }
+
+    .performance p,
+    .security p,
+    .maintenance p,
+    .compactibility p{
+        font-size: 16px;
+        margin-block: -29vh;
+        margin-left: 12px;
+}
 
 }
 
